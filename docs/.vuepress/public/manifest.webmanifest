@@ -1,0 +1,19 @@
+{
+  "name": "Time flies",
+  "short_name": "Time flies",
+  "description": "随写随记",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#3EAF7C",
+  "icons": [
+    {
+      "src": "/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/android-chrome-384x384.png",
+      "sizes": "384x384"
+    }
+  ]
+}
