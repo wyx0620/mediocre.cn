@@ -7,7 +7,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
-    base: '/',
+    base: '/mediocre.cn/',
     head: [
         // favicon
         ['link', { rel: 'icon', sizes: '16x16', href: '/images/icons/favicon-16x16.svg' }],
