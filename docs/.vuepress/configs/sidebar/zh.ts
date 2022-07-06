@@ -66,6 +66,7 @@ export const zh: SidebarConfig = {
                 '/Study/note/quantity.md',
                 '/Study/note/data.md',
                 '/Study/note/hotspot.md',
+                '/Study/note/template.md'
             ]
         }
     ],

@@ -56,6 +56,7 @@ export const zh: NavbarConfig = [
                     '/Study/note/quantity',
                     '/Study/note/data',
                     '/Study/note/hotspot',
+                    '/Study/note/template'
                 ]
             }
         ]
