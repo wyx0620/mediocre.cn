@@ -7,19 +7,19 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
-    base: '/',
+    base: '/learning-record/',
     head: [
         // favicon
-        ['link', { rel: 'icon', sizes: '16x16', href: '/images/icons/favicon-16x16.svg' }],
-        ['link', { rel: 'icon', sizes: '32x32', href: '/images/icons/favicon-32x32.svg' }],
+        ['link', { rel: 'icon', sizes: '16x16', href: '/learning-record/images/icons/favicon-16x16.svg' }],
+        ['link', { rel: 'icon', sizes: '32x32', href: '/learning-record/images/icons/favicon-32x32.svg' }],
         // PWA 的 Manifest 文件
-        ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+        ['link', { rel: 'manifest', href: '/learning-record/manifest.webmanifest' }],
         ['meta', { name: 'application-name', content: 'Time flies' }],
         ['meta', { name: 'apple-mobile-web-app-title', content: 'Time flies' }],
         // 控制状态栏显示样式
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-        ['link', { rel: 'apple-touch-icon', href: '/images/icons/apple-touch-icon.png' }],
-        ['link', { rel: 'mask-icon', href: '/images/icons/safari-pinned-tab.svg', color: '#5BBAD5' }],
+        ['link', { rel: 'apple-touch-icon', href: '/learning-record/images/icons/apple-touch-icon.png' }],
+        ['link', { rel: 'mask-icon', href: '/learning-record/images/icons/safari-pinned-tab.svg', color: '#5BBAD5' }],
         ['meta', { name: 'msapplication-TileColor', content: '#3EAF7C' }],
         ['meta', { name: 'theme-color', content: '#3EAF7C' }],
     ],
