@@ -6,6 +6,7 @@
 - [SVG在线转PNG](https://svgtopng.com/zh/)
 - [Iconify 开源图标库](https://iconify.design/)
 - [图标搜索工具基于 Iconify](https://icones.js.org/)
+- [SVG 制作](https://fffuel.co/)
 
 ## TypeScript
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
@@ -30,10 +31,14 @@
 - [代码随想录](https://programmercarl.com/)
 - [前端开发者技术周刊](https://weekly.shanyue.tech/)
 - [美团技术团队](https://tech.meituan.com/)
-- [面试题](https://www.yuque.com/cuggz/interview/famxgp)
-- [大厂面试每日一题](https://q.shanyue.tech/)
-- [前端面试指南](https://interview2.poetries.top/)
+- [JavaScript 知识图谱](https://tsejx.github.io/javascript-guidebook/)
 - [CSS灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
+
+## 面试相关
+- [面试鸭](https://www.mianshiya.com/)
+- [前端面试指南](https://interview2.poetries.top/)
+- [大厂面试每日一题](https://q.shanyue.tech/)
+- [面试题](https://www.yuque.com/cuggz/interview/famxgp)
 
 ## 工具
 - [git淘宝镜像下载地址](https://registry.npmmirror.com/binary.html?path=git-for-windows/)
@@ -44,15 +49,19 @@
 - [菜鸟工具集](https://c.runoob.com/)
 - [Git在线练习](https://learngitbranching.js.org/?locale=zh_CN)
 - [Slidev 为开发者打造的演示文稿工具](https://cn.sli.dev/)
-- [SVG 制作](https://fffuel.co/)
+- [常用代码片段](https://www.30secondsofcode.org/)
 
 ## 花里胡哨
 - [js转为表情符号](https://utf-8.jp/public/aaencode.html)
 - [奇趣网站收藏家](https://fuun.fun/)
 - [各种书](https://zh.singlelogin.app/)
 - [地图JSON数据](https://datav.aliyun.com/portal/school/atlas/area_selector)
+- [和风天气开发平台](https://dev.qweather.com/)
 
-## npm包
+## 第三方库
 - [设备型号](https://www.npmjs.com/package/mobile-detect)
 - [Turn-JS 实现翻书效果](https://github.com/nicojanssens/turn-js)
 - [VCodeDiff 代码比对展示](https://github.com/Shimada666/v-code-diff)
+- [clipboard.js 将文本复制到剪贴板](https://clipboardjs.com/)
+- [Vue.js 的网格布局系统](https://jbaysolutions.github.io/vue-grid-layout/)
+- [Fabric.js canvas库](http://fabricjs.com/)
