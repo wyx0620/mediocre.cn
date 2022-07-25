@@ -20,6 +20,7 @@
 
 ## Vue
 - [VueUse](https://vueuse.org/)
+- [Vue 挑战](https://cn-vuejs-challenges.netlify.app/)
 
 ## blog
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
@@ -57,6 +58,8 @@
 - [各种书](https://zh.singlelogin.app/)
 - [地图JSON数据](https://datav.aliyun.com/portal/school/atlas/area_selector)
 - [和风天气开发平台](https://dev.qweather.com/)
+- [p5.js 绘图](https://p5js.org/)
+- [CSSBattle](https://cssbattle.dev/)
 
 ## 第三方库
 - [设备型号](https://www.npmjs.com/package/mobile-detect)
@@ -65,3 +68,4 @@
 - [clipboard.js 将文本复制到剪贴板](https://clipboardjs.com/)
 - [Vue.js 的网格布局系统](https://jbaysolutions.github.io/vue-grid-layout/)
 - [Fabric.js canvas库](http://fabricjs.com/)
+- [LOGTO 用户登录体系](https://logto.cn/)
