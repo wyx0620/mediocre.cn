@@ -22,7 +22,10 @@
 - [VueUse](https://vueuse.org/)
 - [Vue 挑战](https://cn-vuejs-challenges.netlify.app/)
 
-## blog
+## 可视化
+- [从0-1入门数据可视化](https://wzf1997.github.io/learn-visualization/)
+
+## Blog
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 - [张鑫旭的个人博客](https://www.zhangxinxu.com/)
